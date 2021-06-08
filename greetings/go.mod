@@ -1,3 +1,3 @@
-module github.com/XihuanYang/greetings
+module github.com/XihuanYang/hello/greetings
 
 go 1.16
