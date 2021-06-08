@@ -3,7 +3,7 @@ package main
 import (
     "fmt"
     "log"
-    "example.com/greetings"
+    "github.com/XihuanYang/greetings"
     "rsc.io/quote"
 )
 
